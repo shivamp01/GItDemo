@@ -4,6 +4,11 @@ public class Hello {
 	public void getData(){
 		System.out.println("Inside getdata function");
 	}
+
+	public void setData(){
+		System.out.println("Inside setdata function");
+	}
+	
 	public static void main(String[] args) {
 		System.out.println("Hello world");
 		System.out.println("Bonjour le monde");
